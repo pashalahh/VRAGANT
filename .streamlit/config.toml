@@ -1,0 +1,13 @@
+[theme]
+# Tema cerah "golden hour" -- pergantian total dari tema gelap sebelumnya.
+# Palet ini diturunkan dari Fragrance Wheel yang dipakai di Tab 2:
+# gold/citrus (fresh), pink (floral), hijau (green/woody).
+
+base = "light"
+
+primaryColor = "#A8CFA8"
+backgroundColor = "#FCFCF8"
+secondaryBackgroundColor = "#EEF5EA"
+textColor = "#2F3142"
+
+font = "sans serif"
